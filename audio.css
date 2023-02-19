@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-image: url('https://1.bp.blogspot.com/-WOAvakQis3I/T4e37jwL4iI/AAAAAAAACmY/U0KMuaKp8Fw/s1600/Hdhut.blogspot.com.jpg');
+  }
+  .time{
+    border: 7px red double;
+    border-radius: 10px;
+    background-color: #121111;
+    color: #7db07d;
+    text-shadow: 3px 4px 10px #b6bda8;
+    text-align: center;
+  }
+  .time:hover{
+    background-color: #c7b8b8;
+    color: #1d2f1d;
+    border-color: yellow;
+    font-family: cursive;
+  }
+  #hour{
+    color: #c02121;
+  }
+  #minute{
+    color: #c02121;
+  }
+  #btn{
+    color: #c02121;
+  }
